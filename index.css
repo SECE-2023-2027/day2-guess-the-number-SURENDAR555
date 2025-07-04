@@ -1,0 +1,60 @@
+body {
+  background: #000000;
+  color: #f2f0f0;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.2rem;
+  margin: 0;
+  padding: 0;
+}
+
+.hi {
+  text-align: center;
+  font-family: "Creepster Caps";
+  font-size: 44px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: bolder;
+  line-height: 26.4px;
+  letter-spacing: 0.1em;
+}
+
+.between {
+  text-align: right;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.2rem;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.numberValue {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 34px;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  justify-content: center;
+  margin: 50px;
+  padding: 20px;
+  border: 2px dashed #fff;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.btn-again {
+  background-color: #f2f0f0;
+  color: #000000;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
